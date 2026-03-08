@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Chi sono?
 Sono Lanzo e sono uno studente di informatica con una forte passione per la tecnologia e l’innovazione. Mi interessa capire a fondo come funzionano i sistemi digitali, dalle reti ai software, e mi piace sperimentare e imparare cose nuove. Sono curioso, determinato e motivato a sviluppare competenze che possano aiutarmi in futuro nel mondo dell’informatica.
 
 
